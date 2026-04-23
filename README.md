@@ -63,7 +63,7 @@ The goal of this project is to analyze sales data, organize datasets, and extrac
 
 ## 📌 Author
 
-Your Name
+Savleen Kaur
 
 ---
 
